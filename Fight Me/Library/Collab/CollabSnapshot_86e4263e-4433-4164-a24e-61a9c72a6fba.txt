@@ -1,0 +1,1 @@
+{"entries":[],"cache":[{"path":"ProjectSettings/ProjectVersion.txt","hash":"ac4093ee2cec2ab3a4e894e0f6f324d6","datetime":{"high":0,"low":1515913690}}],"revisions":{"currRevisionID":"none","headRevisionID":"68b380f707a5edc877d765270e6e1e3e20c342b0"},"updateState":{"currTransactionID":""},"conflicts":[]}
